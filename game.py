@@ -10,7 +10,10 @@ def main():
         "What is 2 + 2?": "4",
         "What is the color of the sky?": "blue",
         "Who wrote 'To Kill a Mockingbird'?": "harper lee",
-        "What is the largest planet in our solar system?": "jupiter"
+        "What is the largest planet in our solar system?": "jupiter",
+        #added my own questions
+        "How many Byrons are in 1 Matt?": "3",
+        "Is Umass housing the spawn of Satan?": "yes"        
     }
 
     score = 0
